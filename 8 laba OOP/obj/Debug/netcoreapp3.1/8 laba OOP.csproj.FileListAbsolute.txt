@@ -1,0 +1,42 @@
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.exe
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.deps.json
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.runtimeconfig.json
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.runtimeconfig.dev.json
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\8 laba OOP.pdb
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.csproj.AssemblyReference.cache
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.AssemblyInfoInputs.cache
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.AssemblyInfo.cs
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.csproj.CoreCompileInputs.cache
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.pdb
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\obj\Debug\netcoreapp3.1\8 laba OOP.genruntimeconfig.cache
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Controls.UI.Dialogs.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Controls.UI.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Controls.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.MediaFramework.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Shared.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Tools.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\VisioForge.Types.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+E:\Education\ООП 1 сем 2 курс\8 laba OOP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

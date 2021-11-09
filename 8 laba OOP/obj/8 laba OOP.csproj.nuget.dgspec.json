@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Education\\ООП 1 сем 2 курс\\8 laba OOP\\8 laba OOP.csproj": {}
+  },
+  "projects": {
+    "E:\\Education\\ООП 1 сем 2 курс\\8 laba OOP\\8 laba OOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Education\\ООП 1 сем 2 курс\\8 laba OOP\\8 laba OOP.csproj",
+        "projectName": "8 laba OOP",
+        "projectPath": "E:\\Education\\ООП 1 сем 2 курс\\8 laba OOP\\8 laba OOP.csproj",
+        "packagesPath": "C:\\Users\\lilkr\\.nuget\\packages\\",
+        "outputPath": "E:\\Education\\ООП 1 сем 2 курс\\8 laba OOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lilkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "VisioForge.DotNet.Core.TRIAL": {
+              "target": "Package",
+              "version": "[14.4.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

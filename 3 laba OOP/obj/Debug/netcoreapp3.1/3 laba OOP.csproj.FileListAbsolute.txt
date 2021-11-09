@@ -1,4 +1,3 @@
-E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.csprojAssemblyReference.cache
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.AssemblyInfoInputs.cache
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.AssemblyInfo.cs
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.csproj.CoreCompileInputs.cache
@@ -11,3 +10,5 @@ E:\Education\ООП 1 сем 2 курс\3 laba OOP\bin\Debug\netcoreapp3.1\3 lab
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.dll
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.pdb
 E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.genruntimeconfig.cache
+E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.csproj.AssemblyReference.cache
+E:\Education\ООП 1 сем 2 курс\3 laba OOP\obj\Debug\netcoreapp3.1\3 laba OOP.GeneratedMSBuildEditorConfig.editorconfig
