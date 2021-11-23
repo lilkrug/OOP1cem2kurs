@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transport>
+  <Car name="Mersedes">
+    <company>TasAuto</company>
+    <price>40000</price>
+  </Car>
+  <Motobike name="Kawasaki">
+    <company>Tangomoto</company>
+    <price>15000</price>
+  </Motobike>
+</Transport>

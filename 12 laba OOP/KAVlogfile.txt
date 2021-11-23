@@ -1,0 +1,40 @@
+#################################################
+Действие: KAVDiskInfo.getDrives()
+Время: 17.11.2021 19:30:30
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 17.11.2021 19:30:30
+Действие: KAVDirInfo.GetDir()
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 17.11.2021 19:30:30
+#################################################
+Действие: KAVDiskInfo.getDrives()
+Время: 21.11.2021 22:25:14
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 21.11.2021 22:25:14
+Действие: KAVDirInfo.GetDir()
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 21.11.2021 22:25:14
+#################################################
+Действие: KAVDiskInfo.getDrives()
+Время: 21.11.2021 22:33:07
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 21.11.2021 22:33:07
+Действие: KAVDirInfo.GetDir()
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 21.11.2021 22:33:07
+#################################################
+Действие: KAVDiskInfo.getDrives()
+Время: 23.11.2021 15:57:24
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 23.11.2021 15:57:24
+Действие: KAVDirInfo.GetDir()
+Путь: E:\Education\ООП 1 сем 2 курс\12 laba OOP\KAVlogfile.txt
+Время: 23.11.2021 15:57:24

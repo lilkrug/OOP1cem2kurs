@@ -1,0 +1,73 @@
+##################################
+Действие: KAADiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 17:58:31
+##################################
+Действие: KAADiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:01:28
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:04:43
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:05:08
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:07:35
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:09:27
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:12:24
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:12:24
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:12:49
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:12:49
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:13:47
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:13:47
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:16:06
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:16:06
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:17:02
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:17:02
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:17:08
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:17:08
+##################################
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:20:44
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:20:44
+Действие: KAVDiskInfo.getFreeDrivesSpace()
+Время: 17.11.2021 18:22:13
+Действие: KAVFileInfo.getFile()
+Имя файла: KAVlogfile
+Путь: KAVlogfile.txt
+Время: 17.11.2021 18:22:13

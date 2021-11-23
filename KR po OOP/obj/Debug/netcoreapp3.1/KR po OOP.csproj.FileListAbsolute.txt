@@ -1,0 +1,14 @@
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.exe
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.deps.json
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.runtimeconfig.json
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.runtimeconfig.dev.json
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.dll
+E:\Education\ООП 1 сем 2 курс\KR po OOP\bin\Debug\netcoreapp3.1\KR po OOP.pdb
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.csproj.AssemblyReference.cache
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.AssemblyInfoInputs.cache
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.AssemblyInfo.cs
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.csproj.CoreCompileInputs.cache
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.dll
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.pdb
+E:\Education\ООП 1 сем 2 курс\KR po OOP\obj\Debug\netcoreapp3.1\KR po OOP.genruntimeconfig.cache
