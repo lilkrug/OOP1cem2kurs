@@ -1,0 +1,14 @@
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.exe
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.deps.json
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.runtimeconfig.json
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.runtimeconfig.dev.json
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.dll
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\bin\Debug\netcoreapp3.1\14 laba OOP.pdb
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.AssemblyInfoInputs.cache
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.AssemblyInfo.cs
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.csproj.CoreCompileInputs.cache
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.dll
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.pdb
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.genruntimeconfig.cache
+E:\Education\ООП 1 сем 2 курс\14 laba OOP\obj\Debug\netcoreapp3.1\14 laba OOP.csproj.AssemblyReference.cache
